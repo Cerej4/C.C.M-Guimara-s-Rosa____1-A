@@ -1,1 +1,2 @@
-# C.C.M-Guimara-s-Rosa____1-A
+# TURMA 1A CCM GUIMARES 
+Criamos nosso primeiro repositório
